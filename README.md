@@ -5,7 +5,7 @@ This contains my solution to the Deep Learning Challenge of the GATECH Bootcamp 
 ## Key Artifacts
 * [Jupyter Notebook for Initial Model](CharityFundingPredictor_InitialModel.ipynb)
 * [Jupyter Notebook for Optimized Model](CharityFundingPredictor_OptimizeModel.ipynb)
-* [Final_Report_and Ananlysis](#Final-Report)
+* [Final_Analysis and Report](#Final-Report)
 
 ## Background
 
