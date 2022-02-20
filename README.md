@@ -1,4 +1,4 @@
-# Deep Learning Homework: Charity Funding Predictor
+# Deep Learning Challenge: Charity Funding Predictor
 ## Solution
 This contains my solution to the Deep Learning Challenge of the GATECH Bootcamp for Data Sience and Analytics.
 
