@@ -109,7 +109,7 @@ Given below is my Final Report and Analysis of the Neural Network Model along wi
     
   * Compiling, Training, and Evaluating the Model
     * How many neurons, layers, and activation functions did you select for your neural network model, and why?
-    **ANSWER** In the Optimized version of the model, I used **3 hidden layers** each with multiple neurons which increased the accuracy to >75% to 79%. The Initial model had 
+    **ANSWER** In the Optimized version of the model, I used **3 hidden layers** each with multiple neurons which increased the accuracy to <75% to 79%. The Initial model had 
     only **2 layers**. Although the number of `epochs` did not change between the Initial and the Optimized Model, adding a 3rd Layer increased the accuracy of the model.
     
     * Were you able to achieve the target model performance?
