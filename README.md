@@ -1,6 +1,6 @@
 # Deep Learning Challenge: Charity Funding Predictor
 ## Solution
-This contains my solution to the Deep Learning Challenge of the GATECH Bootcamp for Data Sience and Analytics.
+Solution to predict whether or not applicants for Charity Funding will be successful based the process of Deep Learning.
 
 ## Key Artifacts and Solution
 * [Jupyter Notebook for Initial Model](CharityFundingPredictor_InitialModel.ipynb)
